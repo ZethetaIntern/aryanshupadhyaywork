@@ -190,11 +190,11 @@ I'm always open to:
 
 ### 📫 Connect With Me
 
-**LinkedIn:** [Add your LinkedIn profile]
+**LinkedIn:** linkedin.com/in/aryansh-upadhyay
 
-**Email:** [Add your professional email]
+**Email:** aryansh.upadhyay.work@gmail.com
 
-**GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**GitHub:** https://github.com/aryanshupadhyaywork
 
 ---
 
